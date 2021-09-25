@@ -1,1 +1,0 @@
-#main library entry point
